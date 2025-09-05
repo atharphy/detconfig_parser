@@ -21,7 +21,7 @@ A utility script to parse CMS Pixel `detconfig` files and produce TWiki-style ta
 
 4. Run the parser by specifying the run numbers you want to compare:
    ```bash
-   python3 /nfshome0/atahmad/detconfig_parser/detconfig_parser.py 159 160 161
+   python3 /nfshome0/pixelpro/opstools/scripts/detconfig_parser.py 159 160 161
    ```
 
    - This will print the parsed tables to your terminal.
