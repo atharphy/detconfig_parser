@@ -36,6 +36,7 @@ A utility script to parse CMS Pixel `detconfig` files and produce TWiki-style ta
 - Separate sections for **Layer 1–4** and **Ring 1–2**.
 - Each detector component with its disabled ROC ranges.
 - Columns mark which runs had those ROCs disabled.
+- This output can directly be copied to the TWiki to make the exact same formatted tables.
 
 Example table excerpt:
 
